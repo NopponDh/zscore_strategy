@@ -1,7 +1,10 @@
+// Edit on Github
+
 //+------------------------------------------------------------------+
 //|                                  PairTrading_Multi_ZScore_NoGold.mq5|
 //|                                   Copyright 2026, AI Assistant    |
 //+------------------------------------------------------------------+
+
 #property strict
 #include <Trade\Trade.mqh>
 
