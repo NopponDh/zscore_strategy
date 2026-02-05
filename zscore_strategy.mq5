@@ -1,3 +1,5 @@
+// Edit on local machine
+
 //+------------------------------------------------------------------+
 //|                                  PairTrading_Multi_ZScore_NoGold.mq5|
 //|                                   Copyright 2026, AI Assistant    |
