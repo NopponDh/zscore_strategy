@@ -16,7 +16,7 @@ input int      InpLookback   = 300;
 input int      InpMagic      = 999222;
 
 input group "=== Risk Management ==="
-input double   InpMaxLot     = 0.50;        // จำกัด Lot สูงสุดต่อไม้เพื่อความปลอดภัย
+input double   InpMaxLot     = 0.1;        // จำกัด Lot สูงสุดต่อไม้เพื่อความปลอดภัย
 
 input group "=== Pairs Selection (รองรับสูงสุด 20 คู่) ==="
 input string   P1A = "AUDUSD", P1B = "NZDUSD";
